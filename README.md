@@ -1,0 +1,1 @@
+The study includes different algorithms for drawing causal graphs (e.g. NewPC.py) and divides the ADNI dataset into four files (AD, CN, MCI and SMC) based on disease stage. It also includes code used to preprocess data and evaluation for PC algorithm.
